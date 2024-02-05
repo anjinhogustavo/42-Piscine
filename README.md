@@ -20,8 +20,8 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
   
 | Shell Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
-| [Piscine Shell 00](https://github.com/anjinhogustavo/42-Piscine/tree/main/Projetos/Shell00) | <img src="https://img.shields.io/badge/50%20%2F%20100-sucess"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine Shell 01](https://github.com/anjinhogustavo/42-Piscine/tree/main/Projetos/Shell01) | <img src="https://img.shields.io/badge/70%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Shell 00](https://github.com/anjinhogustavo/42-Piscine/tree/main/Projetos/Shell00) | <img src="https://img.shields.io/badge/50%20%2F%20100-sucess"/> | `2 peers` `15 mins` `moulinette` |
+| [Shell 01](https://github.com/anjinhogustavo/42-Piscine/tree/main/Projetos/Shell01) | <img src="https://img.shields.io/badge/70%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
 
 | C Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
