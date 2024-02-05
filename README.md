@@ -2,7 +2,7 @@
 
 ## Hello, I'm Gustavo anjinho
 <p>
-> Type <strong>$ 'curl parrot.live'</strong> on terminal.
+<img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live
 </p>
 
 ##  Piscine 26 Days
